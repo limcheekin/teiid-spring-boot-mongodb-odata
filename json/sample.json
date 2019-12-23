@@ -1,0 +1,30 @@
+{
+    "_id" : ObjectId("5b2367c9c9e77c0007ca0111"),
+    "createdOn" : ISODate("2018-06-15T07:16:25.459Z"),
+    "modifiedOn" : ISODate("2018-07-02T02:04:16.661Z"),
+    "variableId" : "183cf101d2334ac09bd0db9aee96081f",
+    "name" : "lfzq_test",
+    "description" : "",
+    "lastModifiedUserEmail" : "admin1@dxc.com",
+    "headerRow" : {
+        "rowId" : "0b002942a5b4424f98fcc270af0290c3",
+        "values" : [ 
+            "name", 
+            "value"
+        ],
+        "isEncrypted" : [ 
+            false, 
+            true
+        ]
+    },
+    "rows" : [ 
+        {
+            "rowId" : "940467f9bb724d1688086baeec05049b",
+            "values" : [ 
+                "lfzq123q", 
+                "751c634ca5e24102a00800b386955a5c"
+            ]
+        }
+    ],
+    "deleted" : false
+}
