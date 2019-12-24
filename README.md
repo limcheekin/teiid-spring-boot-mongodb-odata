@@ -21,3 +21,8 @@ Access the OData endpoint with the following URL:
 ```
 http://localhost:8080/odata/$metadata
 ```
+
+## Teiid Ticket
+```
+https://issues.redhat.com/browse/TEIID-5873
+```
